@@ -1,0 +1,41 @@
+button {display:block; 
+margin-bottom: 20px;
+height:50px; }
+
+
+.search { 
+  width: 200px;
+  border-radius: 25px;
+  color:aquamarine;
+  background-color: white;
+  border: solid 2pt;
+
+}
+
+
+
+
+.addme {
+  font-size: x-large;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  border: none;
+  background-color: aquamarine;
+}
+
+  .createaccount {
+  width: 200px;
+  color: white;
+  background-color: blue;
+  border: solid 2px black;
+  box-shadow: 5px 5px black;
+  }
+
+
+  
+
+
+
+
+  
